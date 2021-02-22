@@ -6,4 +6,4 @@ output: html_document
 ---
 ## About us
 
-Lilli and Dave are making a thing
+Lilli and Dave are making a thing to practice collaboration. 
