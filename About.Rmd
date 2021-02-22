@@ -1,0 +1,9 @@
+---
+title: "About"
+author: "Lillian Senn"
+date: "2/22/2021"
+output: html_document
+---
+## About us
+
+Lilli and Dave are making a thing
